@@ -16,3 +16,5 @@ remote repositiory using push origin button
 4. Observe it has been added in your repo under 
 github.com
 
+How to save after adding some text in sublime
+command + s
